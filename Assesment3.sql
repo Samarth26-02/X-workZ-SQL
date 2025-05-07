@@ -34,7 +34,7 @@ CREATE TABLE book_info (
     language VARCHAR(15)
 );
 
-
+//Inserting 20 values
 INSERT INTO student_info VALUES
 (1, 'Aarav', 20, 'Male', 'CS', 8.1, 'Mumbai', 'Yes'),
 (2, 'Priya', 21, 'Female', 'IT', 7.8, 'Delhi', 'No'),
