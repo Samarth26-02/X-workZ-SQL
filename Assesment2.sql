@@ -8,7 +8,7 @@ CREATE TABLE airlines_info (
     headquarters VARCHAR(100),
     fleet_size INT
 );
-
+//create table
 CREATE TABLE country_info (
     country_id INT PRIMARY KEY,
     country_name VARCHAR(100),
