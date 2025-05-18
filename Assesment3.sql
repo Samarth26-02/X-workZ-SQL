@@ -144,4 +144,23 @@ SELECT * FROM product_info WHERE brand IN ('Sony', 'LG', 'HP');
 SELECT * FROM book_info WHERE pages BETWEEN 300 AND 500;
 SELECT * FROM book_info WHERE book_id NOT BETWEEN 5 AND 10;
 
+select * from student_info;
+select count(*) from student_info;
+
+select sum(pages) from book_info;
+
+select max(pages) as max_pages from book_info;
+
+select min(pages) as min_pages from book_info;
+
+select avg(pages) as avg_pages from book_info;
+
+select student_name,max(age) as max_age from student_info 
+where department='ECE';
+
+select student_name, max(age) as max_age from student_info
+group by department having max_age >21;
+
+select * from student_info;
+
 
