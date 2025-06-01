@@ -25,6 +25,8 @@ CREATE TABLE state_info (
     area_km2 FLOAT
 );
 
+//Alter table
+
 ALTER TABLE airlines_info ADD ceo_name VARCHAR(100);
 ALTER TABLE airlines_info ADD is_active BOOLEAN;
 ALTER TABLE airlines_info ADD rating FLOAT;
