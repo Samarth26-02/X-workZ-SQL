@@ -1,5 +1,5 @@
 create database Assesment2;
-//assignment2
+//assignment2 
 use  Assesment2;
 CREATE TABLE airlines_info (
     airline_id INT PRIMARY KEY,
@@ -73,6 +73,8 @@ INSERT INTO airlines_info VALUES
 (19, 'GreenAir', 1998, 'Dublin, Ireland', 140, 'Aoife O\'Connor', TRUE, 4.1),
 (20, 'SilverLine', 2000, 'Zurich, Switzerland', 120, 'Luca Meier', TRUE, 4.3);
 
+
+    //insert into table
 INSERT INTO country_info VALUES
 (1, 'India', 'Asia', 1410000000, 'INR', 'New Delhi', 3200.75, 'Hindi'),
 (2, 'USA', 'North America', 331000000, 'USD', 'Washington D.C.', 23100.60, 'English'),
