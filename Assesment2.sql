@@ -1,5 +1,4 @@
 create database Assesment2;
-//assignment2 
 use  Assesment2;
 CREATE TABLE airlines_info (
     airline_id INT PRIMARY KEY,
