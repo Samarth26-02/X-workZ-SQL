@@ -4,7 +4,7 @@ create database Assesment4;
 
 use Assesment4;
 
-
+//companies table
 CREATE TABLE Companies (
     company_id INT PRIMARY KEY,
     name VARCHAR(100),
