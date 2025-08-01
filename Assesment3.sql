@@ -1,3 +1,6 @@
+//assesment 3
+
+
 create database Assesment3;
 use Assesment3;
 CREATE TABLE student_info (
