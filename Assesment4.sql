@@ -1,4 +1,4 @@
-//assesment 4
+
 
 create database Assesment4;
 
