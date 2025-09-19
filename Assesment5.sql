@@ -1,4 +1,4 @@
-//assesment 5
+
 CREATE DATABASE Assesment5;
 USE Assesment5;
 
