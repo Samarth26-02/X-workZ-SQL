@@ -1,5 +1,4 @@
 
-
 create database Assesment2;
 use  Assesment2;
 CREATE TABLE airlines_info (
