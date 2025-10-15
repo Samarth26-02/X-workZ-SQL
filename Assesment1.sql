@@ -1,4 +1,4 @@
-//Task Database
+
 create database Task;
 
 use Task;
